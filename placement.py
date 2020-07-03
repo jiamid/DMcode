@@ -1,6 +1,3 @@
-"""Matrix placement for 2D datamatrix barcode encoder"""
-__revision__ = "$Rev$"
-
 
 class DataMatrixPlacer:
     """Class which takes care of placing codewords in the correct position

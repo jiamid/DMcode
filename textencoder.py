@@ -1,7 +1,3 @@
-"""Text encoder for 2D datamatrix barcode encoder"""
-
-__revision__ = "$Rev$"
-
 import sys
 import logging
 
